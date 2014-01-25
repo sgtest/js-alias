@@ -1,0 +1,19 @@
+{
+  "name": "js-alias",
+  "version": "0.0.0",
+  "description": "",
+  "main": "alias.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sgtest/js-alias.git"
+  },
+  "author": "",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/sgtest/js-alias/issues"
+  },
+  "homepage": "https://github.com/sgtest/js-alias"
+}
